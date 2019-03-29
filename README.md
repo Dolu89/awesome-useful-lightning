@@ -8,6 +8,8 @@ Services
   * [lnsms](https://lnsms.world/) - send SMS worldwide.
   * [Kriptode SMS](https://kriptode.com/receivesms/index.html) - receive SMS on temporary number.
   * [LightSpot](https://play.google.com/store/apps/details?id=com.pseudozach.lightspot) - rent your mobile data connection or purchase WiFi access from a near peer.
+  * [LightningStream](https://lightningstream.io) - Start accepting Bitcoin donation using Lightning network on your stream. 
+Automatically display notifications of donations in your stream.
 
 Digital goods stores
 -------------
